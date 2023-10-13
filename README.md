@@ -33,6 +33,7 @@ curl -sLkO https://is.gd/orgwin10 ; bash orgwin10
 
 curl -sLkO https://is.gd/claywin10 ; bash claywin10
 
+```
  
 *FAQ: VM can't connect? Restart Cloud Shell then Re-run script.*
 
