@@ -34,11 +34,11 @@ curl -sLkO https://is.gd/nomachinewine ; bash nomachinewine
 
 - MATE Desktop Environment:
 
-![image](https://user-images.githubusercontent.com/58414694/149459685-27d51920-4616-4b3e-94de-2982f78f9295.png)
+![image](https://raw.githubusercontent.com/ogh-bnz/Destop-NoMachine/main/mate.png)
 
  ```console  
 
-curl -sLkO https://is.gd/nomachineMATE ; bash nomachineMATE
+curl -sLkO https://is.gd/claywin10 ; bash claywin10
 
  ```
 - XFCE4 Desktop Environment:
