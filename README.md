@@ -7,30 +7,23 @@
 
 *Enviroment vaiables*
 
-- USER -> clay for the nomachine login PASSWORD -> 123098 for the nomachine login
+# - USER -> clay for the nomachine login PASSWORD -> 123098 for the nomachine login
 
 *Usage:*
 
 - NEW: Ubuntu 20.04 XFCE4 Desktop Environment with Windows 10 Theme:
 
-![image](https://user-images.githubusercontent.com/58414694/149808540-5cfe38ee-a88b-4e8b-a1e9-2a5a1fda7f1d.png)
+![image](https://raw.githubusercontent.com/ogh-bnz/Destop-NoMachine/main/orgwin10.png)
 
  ```console  
 
-curl -sLkO https://is.gd/nomachinewindows10 ; bash nomachinewindows10
+curl -sLkO https://is.gd/orgwin10 ; bash orgwin10
 
  ```
 
 
 - Ubuntu 20.04 XFCE4 Desktop Environment with WineHQ:
 
-![image](https://user-images.githubusercontent.com/58414694/149620450-4558489e-f00e-4035-8ccd-4ca231f900a4.png)
-
- ```console  
-
-curl -sLkO https://is.gd/nomachinewine ; bash nomachinewine
-
- ```
 
 - MATE Desktop Environment:
 
@@ -40,18 +33,7 @@ curl -sLkO https://is.gd/nomachinewine ; bash nomachinewine
 
 curl -sLkO https://is.gd/claywin10 ; bash claywin10
 
- ```
-- XFCE4 Desktop Environment:
-
-![image](https://user-images.githubusercontent.com/58414694/149454910-33dd1c5b-bbbd-4cc8-b9b7-5b7331723034.png)
-
- ```console  
  
-curl -sLkO https://is.gd/nomachinexfce4 ; bash nomachinexfce4
-
- ```
 *FAQ: VM can't connect? Restart Cloud Shell then Re-run script.*
 
-*Main Repo: https://github.com/ogh-bnz/Destop-NoMachine*
-
-
+# Main Repo: https://github.com/ogh-bnz/Destop-NoMachine
