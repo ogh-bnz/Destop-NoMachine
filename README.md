@@ -1,6 +1,9 @@
 # Destop - NoMachine
 *Ubuntu Desktop on NoMachine -/-*
 
+- *Video Link - https://fb.watch/n_lE_n1fMV/?mibextid=Nif5oz - *
+
+
 - Base on Ubuntu 18.04 / Ubuntu 20.04
 
 - NoMachine ( Download from here ) : https://www.nomachine.com/download
